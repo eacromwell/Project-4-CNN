@@ -21,6 +21,15 @@ Jennifer Vincent
 - GitHub Documentation (25 points)
 - Group Presentation (25 points)
 
+## Visualizations
+- Fig 1. - Image input on the model (image identification)
+  
+<img width="541" alt="fig1_model_image_identification" src="https://github.com/eacromwell/Project-4-CNN/assets/123791177/5ecaf708-334d-4352-8110-fe2dc3eacc6d">
+
+- Fig 2. - Plotting test and train accuracy through epochs
+
+<img width="455" alt="fig2_test_train_plot" src="https://github.com/eacromwell/Project-4-CNN/assets/123791177/7ed6520f-4529-4996-b277-f5b7c256c75d">
+
 ## Additional Support and Resources Used:
 stackoverflow.com
 paperswithcode.com
